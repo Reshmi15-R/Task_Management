@@ -99,14 +99,13 @@ task-manager/
 - 🌙 Dark mode
 - ⚛️ React version of the project
 ## 📸 Project Screenshots
-## 📸 Project Screenshots
 
 ### 🔐 Login Page
 ![Login Page](screenshots/1.png)
 
 
 **Login Validation**
-![Login Page Validation](C:\Users\RESHMI\OneDrive\Desktop\task-manager\screenshots\1.png)
+![Login Page Validation](screenshots/2.png)
 
 ### 🏠 Home Page
 ![Home Page](screenshots/3.png)
