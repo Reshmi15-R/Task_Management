@@ -104,16 +104,15 @@ task-manager/
 ### 🔐 Login Page
 ![Login Page](screenshots/1.png)
 
+
 **Login Validation**
 ![Login Page Validation](screenshots/2.png)
-
 
 ### 🏠 Home Page
 ![Home Page](screenshots/3.png)
 
 **Calendar & Task Input**
 ![Home Page Calendar](screenshots/4.png)
-
 
 ### ⏳ Pending Tasks Page
 ![Pending Tasks](screenshots/5.png)
@@ -124,10 +123,8 @@ task-manager/
 **Delete Task**
 ![Delete Task](screenshots/7.png)
 
-
 ### 📜 Task History Page
 ![Task History](screenshots/8.png)
-
 
 ## 📌 Conclusion
 
