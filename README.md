@@ -106,7 +106,7 @@ task-manager/
 
 
 **Login Validation**
-![Login Page Validation](screenshots/2.png)
+![Login Page Validation](C:\Users\RESHMI\OneDrive\Desktop\task-manager\screenshots\1.png)
 
 ### 🏠 Home Page
 ![Home Page](screenshots/3.png)
