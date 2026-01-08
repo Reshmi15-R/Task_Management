@@ -99,24 +99,33 @@ task-manager/
 - 🌙 Dark mode
 - ⚛️ React version of the project
 ## 📸 Project Screenshots
+## 📸 Project Screenshots
 
 ### 🔐 Login Page
 ![Login Page](screenshots/1.png)
 
+**Login Validation**
+![Login Page Validation](screenshots/2.png)
 
-![Login Page](screenshots/2.png)
+
 ### 🏠 Home Page
 ![Home Page](screenshots/3.png)
 
-![Home Page](screenshots/4.png)
+**Calendar & Task Input**
+![Home Page Calendar](screenshots/4.png)
+
 
 ### ⏳ Pending Tasks Page
 ![Pending Tasks](screenshots/5.png)
 
-![Pending Tasks](screenshots/6.png)
-### 📜 Task History Page
-![Task History](screenshots/7.png)
+**Edit Task**
+![Edit Task](screenshots/6.png)
 
+**Delete Task**
+![Delete Task](screenshots/7.png)
+
+
+### 📜 Task History Page
 ![Task History](screenshots/8.png)
 
 
