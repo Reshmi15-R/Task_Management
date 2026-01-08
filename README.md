@@ -98,6 +98,26 @@ task-manager/
 - 🚪 Logout functionality
 - 🌙 Dark mode
 - ⚛️ React version of the project
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/1.png)
+
+
+![Login Page](screenshots/2.png)
+### 🏠 Home Page
+![Home Page](screenshots/3.png)
+
+![Home Page](screenshots/4.png)
+
+### ⏳ Pending Tasks Page
+![Pending Tasks](screenshots/5.png)
+
+![Pending Tasks](screenshots/6.png)
+### 📜 Task History Page
+![Task History](screenshots/7.png)
+
+![Task History](screenshots/8.png)
 
 
 ## 📌 Conclusion
